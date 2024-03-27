@@ -13,3 +13,4 @@ API key is added to the value section.
         The received API key is added to the Android manifest as follows: <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="" />
+Press and hold on the location you want to save and save it.
